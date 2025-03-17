@@ -1,0 +1,107 @@
+{
+    "happy": [
+        {
+            "title": "Happy",
+            "artist": "Pharrell Williams"
+        },
+        {
+            "title": "Walking on Sunshine",
+            "artist": "Katrina & The Waves"
+        },
+        {
+            "title": "I Gotta Feeling",
+            "artist": "The Black Eyed Peas"
+        },
+        {
+            "title": "Don't Stop Believin'",
+            "artist": "Journey"
+        },
+        {
+            "title": "Uptown Funk",
+            "artist": "Mark Ronson ft. Bruno Mars"
+        },
+        {
+            "title": "as it was",
+            "artist": "harry style"
+        }
+    ],
+    "sad": [
+        {
+            "title": "Someone Like You",
+            "artist": "Adele"
+        },
+        {
+            "title": "All By Myself",
+            "artist": "Celine Dion"
+        },
+        {
+            "title": "Yesterday",
+            "artist": "The Beatles"
+        },
+        {
+            "title": "Hurt",
+            "artist": "Johnny Cash"
+        },
+        {
+            "title": "Say Something",
+            "artist": "A Great Big World"
+        }
+    ],
+    "relaxed": [
+        {
+            "title": "Weightless",
+            "artist": "Marconi Union"
+        },
+        {
+            "title": "River Flows in You",
+            "artist": "Yiruma"
+        },
+        {
+            "title": "Clair de Lune",
+            "artist": "Claude Debussy"
+        },
+        {
+            "title": "Somewhere Over the Rainbow",
+            "artist": "Israel Kamakawiwo'ole"
+        },
+        {
+            "title": "The Sound of Silence",
+            "artist": "Simon & Garfunkel"
+        },
+        {
+            "title": "young and beautiful",
+            "artist": "lana del re"
+        }
+    ],
+    "energetic": [
+        {
+            "title": "Eye of the Tiger",
+            "artist": "Survivor"
+        },
+        {
+            "title": "Can't Hold Us",
+            "artist": "Macklemore & Ryan Lewis"
+        },
+        {
+            "title": "Stronger",
+            "artist": "Kanye West"
+        },
+        {
+            "title": "Thunderstruck",
+            "artist": "AC/DC"
+        },
+        {
+            "title": "Shake It Off",
+            "artist": "Taylor Swift"
+        },
+        {
+            "title": "ds",
+            "artist": "vs"
+        },
+        {
+            "title": "rajanya",
+            "artist": "pal"
+        }
+    ]
+    
+}
